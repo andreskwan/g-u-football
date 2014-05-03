@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 6fbfd46aa3fb44fd1b86f7877613501a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: 1.1-body
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1510
+        width: 649
+        height: 653
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mouth_open
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2031
+        width: 77
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Mouth
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1800
+        width: 283
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: chichon
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1651
+        width: 149
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 1.2-body
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 752
+        width: 650
+        height: 638
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 1.4-body
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 811
+        width: 596
+        height: 609
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: X
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1321
+        width: 139
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 2.1-Eye
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1127
+        width: 209
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: boss_8
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 923
+        width: 149
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: boss_9
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 883
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 1.3-body
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 631
+        height: 637
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: 1-Eye
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 632
+        width: 184
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

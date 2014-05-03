@@ -1,0 +1,26 @@
+!Assets/Assets/Scripts
+*.asset
+*.csproj
+*.unity
+.csproj
+.sln 
+Assembly-CSharp.csproj
+Assets/Assets/Sounds*
+Assets/Robot*
+Builds
+Library
+Linux32.x86
+Linux32_Data
+LinuxVersion.x86_64
+LinuxVersion_Data
+MacVersion.app
+ProjectSettings
+Temp
+U2D - lexipTest-csharp.sln lexipTest.sln
+U2D - lexipTest.sln
+U2D - lexipTest.userprefs
+WindowsVersion.exe
+WindowsVersion_Data
+lexipTest-csharp.sln
+lexipTest.userprefs
+ssembly-CSharp-vs.csproj  
